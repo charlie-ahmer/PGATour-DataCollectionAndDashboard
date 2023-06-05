@@ -25,7 +25,6 @@ This project aims to analyze the PGA Tour player stats/data from 2017-2022 to ga
 - Evaluate the models' performance using metrics such as accuracy, precision, recall, and F1-score
 - Fine-tune the models' hyperparameters to improve their performance
 - Select the best-performing model and use it to predict future outcomes \
-
 * Notebook will be posted soon*
 
 This project has the potential to provide valuable insights into the PGA Tour players' performance and help stakeholders make informed decisions.
