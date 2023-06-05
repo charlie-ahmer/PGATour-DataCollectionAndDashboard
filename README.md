@@ -1,14 +1,17 @@
 # PGATour-DataScience
 This project aims to analyze the PGA Tour player stats/data from 2017-2022 to gain insights into the players' performance and to build machine learning models for predicting future outcomes.
+- [Web Scrape Notebook](/PGA_WebScrape.ipynb)
+- [View EDA Notebook here](/PGA_EDA.ipynb)
+- Machine Learning Notebook TBD
 
 ## Web Scraping and Exploratory Data Analysis
 
-- Collect data from various sources (official PGA Tour website's GraphQL API)[View Web Scraping Notebook here](/PGA_WebScrape.ipynb)
+- Collect data from various sources (official PGA Tour website's GraphQL API)
 - Clean and preprocess the data to ensure its accuracy and consistency
 - Perform descriptive statistics to summarize the data's characteristics, such as mean, median, and standard deviation
 - Visualize the data using graphs and charts to identify trends and patterns
 - Analyze the relationship between different variables using correlation analysis
-- [View EDA Notebook here](/PGA_EDA.ipynb)
+
 
 ## Machine Learning Modeling
 
