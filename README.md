@@ -8,6 +8,7 @@ This project aims to analyze the PGA Tour player stats/data from 2017-2022 to ga
 - Perform descriptive statistics to summarize the data's characteristics, such as mean, median, and standard deviation
 - Visualize the data using graphs and charts to identify trends and patterns
 - Analyze the relationship between different variables using correlation analysis
+- [View Notebook here](blob/main/PGA_EDA.ipynb)
 
 ## Machine Learning Modeling
 
