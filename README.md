@@ -6,7 +6,8 @@ This project aims to analyze the PGA Tour player stats/data from 2017-2022 to ga
 
 ## Web Scraping
 
-- Collect data from [PGATour.com](pgatour.com/stats)
+- Collect data from [PGATour.com](https://www.pgatour.com/stats)
+
 - Clean and preprocess the data to ensure its accuracy and consistency
 
 
