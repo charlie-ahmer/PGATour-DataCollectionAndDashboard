@@ -4,10 +4,13 @@ This project aims to analyze the PGA Tour player stats/data from 2017-2022 to ga
 - [View EDA Notebook here](/PGA_EDA.ipynb)
 - Machine Learning Notebook TBD
 
-## Web Scraping and Exploratory Data Analysis
+## Web Scraping
 
-- Collect data from various sources (official PGA Tour website's GraphQL API)
+- Collect data from [PGATour.com]
 - Clean and preprocess the data to ensure its accuracy and consistency
+
+
+## Exploratory Data Analysis
 - Perform descriptive statistics to summarize the data's characteristics, such as mean, median, and standard deviation
 - Visualize the data using graphs and charts to identify trends and patterns
 - Analyze the relationship between different variables using correlation analysis
