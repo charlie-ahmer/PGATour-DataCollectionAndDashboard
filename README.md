@@ -1,30 +1,30 @@
-# PGATour-DataScience
-This project aims to analyze the PGA Tour player stats/data from 2017-2022 to gain insights into the players' performance and to build machine learning models for predicting future outcomes.
+# PGATour Data Collection and Dashboarding
+This project aims to analyze the PGA Tour player stats/data from 2007-2022 to gain insights into the players' performance and to build an insightful Tableau Dashboard. 
+- The data was scraped from 2007-2022 due to the FedEx Cup beginning with the 2007 season.
 
 ## Web Scraping
 
 - Collected data from [PGATour.com](https://www.pgatour.com/stats)
 - After failing with python and BeautifulSoup, I realized PGATour.com now uses a GraphQL API to retrieve data
   -   I successfully learned about GraphQL Queries to obtain data with python
-- Cleaned and preprocessed the data to ensure its accuracy and consistency \
+- Cleaned and preprocessed the data to ensure its accuracy and consistency
+- Exported the full dataset as a CSV file \
 [View Notebook](/PGA_WebScrape.ipynb)
 
 ## Exploratory Data Analysis
 - Perform descriptive statistics to summarize the data's characteristics, such as mean, median, and standard deviation
 - Visualize the data using graphs and charts to identify trends and patterns
 - Analyze the relationship between different variables using correlation analysis
-- This EDA will help to get a grasp of the dataset to allow us to create more insightful machine learning models as well. \
+- This EDA will help to get a grasp of the dataset to allow us to create more insightful visuals \
 [View Notebook](PGA_EDA.ipynb)
 
 
-## Machine Learning Modeling
+## Building Tableau Dashboard
 
-- Split the data into training and testing sets
-- Create a Linear Regression model
-- Build and train several machine learning models, such as random forest, support vector machines, and neural networks
-- Evaluate the models' performance using metrics such as accuracy, precision, recall, and F1-score
-- Fine-tune the models' hyperparameters to improve their performance
-- Select the best-performing model and use it to predict future outcomes \
-_Notebook will be posted soon_
+- Utilized Excel to find Tour Averages by season, list all players and countries, etc.
+- Uploaded the Excel file into Tableau
+- Designed a dashboard that looks nice and contains useful information
+- Uploaded the finished dashboard to Tableau Public \
+[View Completed Dashboard Here](https://public.tableau.com/app/profile/charles.ahmer/viz/PGATourStats2007-2022/PGAPlayerStatsDashboard)
 
 This project has the potential to provide valuable insights into the PGA Tour players' performance and help stakeholders make informed decisions.
