@@ -25,6 +25,8 @@ This project aims to analyze the PGA Tour player stats/data from 2007-2022 to ga
 - Uploaded the Excel file into Tableau
 - Designed a dashboard that looks nice and contains useful information
 - Uploaded the finished dashboard to Tableau Public \
+
+![Tableau Dashboard Screenshot]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/charlie-ahmer/PGATour-DataCollectionAndDashboard/blob/main/Screenshot%202023-07-18%20at%208.45.02%20PM.png))
 [View Completed Dashboard Here](https://public.tableau.com/app/profile/charles.ahmer/viz/PGATourStats2007-2022/PGAPlayerStatsDashboard)
 
 This project has the potential to provide valuable insights into the PGA Tour players' performance and help stakeholders make informed decisions.
